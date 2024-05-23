@@ -4,10 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/W07_AddingUI/W07_AddingUI_Sample.unity
-    guid: 4b5d6c4aad8a245278a2441970aa9a99
+  m_Scenes: []
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e00e046ff7274402eb0b869106685b40, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 4bf715f24c9ba4456879a91cdeb9ac90, type: 2}

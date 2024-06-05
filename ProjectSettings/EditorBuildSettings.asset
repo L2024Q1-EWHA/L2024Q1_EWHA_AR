@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/W14_ScrollView_Fitter/W14_ScrollView_Fitter.unity
+    guid: a1d15140e642b4df3b372ba1bc65e872
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e00e046ff7274402eb0b869106685b40, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 4bf715f24c9ba4456879a91cdeb9ac90, type: 2}
